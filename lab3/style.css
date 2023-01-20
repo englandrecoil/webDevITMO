@@ -1,0 +1,39 @@
+body{
+    background-image: url(image/blue.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0;
+}
+button{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 12px;
+    background-color: #7574A7;
+    color: #EFF4E4;
+    border-color: #5659C9;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+}
+input{
+    font-size: 24px;
+    border-radius: 12px;
+    padding: 5px;
+    border-color: #5659C9;
+    color: #5659C9;
+}   
+table {
+    margin: 100px;
+    color: #EFF4E4;
+    border: 2px solid #EFF4E4;
+    font-size: 24px;
+    padding: 10px;
+    border-spacing: 5px;
+}
+
+.main_func{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
